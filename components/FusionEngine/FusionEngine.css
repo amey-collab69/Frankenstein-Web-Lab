@@ -1,0 +1,88 @@
+.fusion-engine {
+  background: #1a1a1a;
+  padding: 20px;
+}
+
+.fusion-engine h2 {
+  text-align: center;
+  color: #00d4ff;
+  margin-bottom: 20px;
+}
+
+.fusion-status {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.status-indicator {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: #00ff00;
+  box-shadow: 0 0 10px #00ff00;
+  transition: all 0.3s;
+}
+
+.status-indicator.active {
+  background: #ff0055;
+  box-shadow: 0 0 20px #ff0055;
+  animation: pulse 1s infinite;
+}
+
+.ai-command-section {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.ai-command-section label {
+  color: #00ff00;
+  font-weight: bold;
+}
+
+.ai-input {
+  background: #000;
+  border: 2px solid #00ff00;
+  color: #00ff00;
+  padding: 10px;
+  font-family: 'Courier New', monospace;
+  font-size: 14px;
+  outline: none;
+}
+
+.ai-input:focus {
+  box-shadow: 0 0 10px #00ff00;
+}
+
+.ai-input:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.fusion-examples {
+  background: #000;
+  padding: 15px;
+  border: 1px solid #333;
+  border-radius: 4px;
+}
+
+.fusion-examples h3 {
+  color: #9d00ff;
+  margin-top: 0;
+  font-size: 14px;
+}
+
+.fusion-examples ul {
+  margin: 10px 0;
+  padding-left: 20px;
+  color: #666;
+  font-size: 12px;
+}
+
+.fusion-examples li {
+  margin: 5px 0;
+}

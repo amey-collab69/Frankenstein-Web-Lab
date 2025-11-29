@@ -1,0 +1,131 @@
+═══════════════════════════════════════════════════════════════
+  FRANKENSTEIN WEB LAB - COMPLETE COMMAND REFERENCE
+═══════════════════════════════════════════════════════════════
+
+📋 TERMINAL COMMANDS (Type in Terminal Module)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+help        - Show available commands
+clear       - Clear terminal screen
+status      - Show system status
+fusion      - Show fusion engine info
+patterns    - List all 31 AI patterns
+save        - Save terminal log to database
+
+🤖 AI FUSION ENGINE COMMANDS (Type in Fusion Engine)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📝 UTILITY COMMANDS:
+list patterns       - Show all 31 available patterns
+convert to ascii    - Convert canvas to ASCII art
+analyze canvas      - Show pixel art statistics
+save to dashboard   - Export canvas to dashboard
+clear canvas        - Clear the pixel canvas
+random pattern      - Generate random pattern
+
+🎨 DRAW COMMANDS (31 Total):
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+CREATURES & CHARACTERS:
+draw a ghost        👻 - Spooky ghost
+draw a alien        👽 - Green alien
+draw a skull        💀 - Scary skull
+draw a smiley       😊 - Happy face
+draw a snake        🐍 - Slithering snake
+
+ANIMALS:
+draw a cat          🐱 - Purple cat
+draw a dog          🐶 - Brown dog
+draw a fish         🐟 - Blue fish
+draw a butterfly    🦋 - Colorful butterfly
+
+NATURE:
+draw a tree         🌲 - Green tree
+draw a flower       🌸 - Red flower
+draw a mushroom     🍄 - Red mushroom
+draw a moon         🌙 - Yellow moon
+draw a sun          ☀️ - Bright sun
+draw a cloud        ☁️ - White cloud
+draw a star         ⭐ - Yellow star
+
+OBJECTS:
+draw a heart        ❤️ - Red heart
+draw a lightning    ⚡ - Yellow lightning bolt
+draw a rocket       🚀 - Blue rocket
+draw a umbrella     ☂️ - Red umbrella
+draw a house        🏠 - Brown house
+draw a car          🚗 - Red car
+draw a key          🔑 - Yellow key
+draw a lock         🔒 - Brown lock
+draw a bomb         💣 - Black bomb
+draw a gift         🎁 - Red gift box
+draw a crown        👑 - Golden crown
+draw a diamond      💎 - Blue diamond
+
+FOOD:
+draw a pizza        🍕 - Cheesy pizza
+draw a apple        🍎 - Red apple
+draw a cherry       🍒 - Red cherries
+
+═══════════════════════════════════════════════════════════════
+
+📖 USAGE EXAMPLES:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Example 1: Draw a Snake
+  1. Go to Fusion Engine
+  2. Type: draw a snake
+  3. Press Enter
+  4. Snake appears on canvas! 🐍
+
+Example 2: Create and Export
+  1. Type: draw a heart
+  2. Type: convert to ascii
+  3. Check terminal for ASCII art
+  4. Type: save to dashboard
+  5. Check dashboard for card
+
+Example 3: Random Art
+  1. Type: random pattern
+  2. Get surprise pattern!
+  3. Type: analyze canvas
+  4. See statistics
+
+Example 4: List All Patterns
+  1. Type: list patterns
+  2. See all 31 patterns with emojis
+  3. Pick one and draw it!
+
+═══════════════════════════════════════════════════════════════
+
+🎯 QUICK TIPS:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✓ Commands are case-insensitive
+✓ You can type "draw snake" or "draw a snake"
+✓ Use "patterns" in terminal for quick reference
+✓ Use "list patterns" in Fusion Engine for full list
+✓ Try "random pattern" for surprises!
+✓ All patterns work on 16x16 grid
+
+═══════════════════════════════════════════════════════════════
+
+🚀 STARTUP COMMANDS:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Start MongoDB:
+  net start MongoDB
+
+Start Backend (Terminal 1):
+  cd my-react-app\backend
+  npm run dev
+
+Start Frontend (Terminal 2):
+  cd my-react-app
+  npm run dev
+
+Open Browser:
+  http://localhost:5173
+
+═══════════════════════════════════════════════════════════════
+
+⚡ THE MONSTER IS ALIVE! 🧪
+
