@@ -1,1 +1,79 @@
+# .kiro Folder
 
+This folder contains Kiro AI configuration and documentation for the Frankenstein Web Lab project.
+
+## Contents
+
+### 📁 steering/
+Contains steering documents that provide context to Kiro AI about the project:
+- `frankenstein-lab.md` - Main project overview, architecture, and development guidelines
+
+### 📁 hooks/
+Contains example agent hooks for automated workflows:
+- `example-test-hook.md` - Example hook configuration and ideas
+
+## What is Kiro?
+
+Kiro is an AI-powered IDE assistant that helps with:
+- Code generation and modification
+- Project orchestration
+- Automated workflows via hooks
+- Context-aware assistance using steering docs
+
+## Purpose of This Folder
+
+The `.kiro` folder helps Kiro understand:
+- Project structure and architecture
+- Tech stack (React + Node.js + MongoDB)
+- Coding conventions and patterns
+- Development workflows
+- Module relationships
+
+## For GitHub Users
+
+This folder is **safe to commit** to GitHub. It contains:
+- ✅ Project documentation
+- ✅ Development guidelines
+- ✅ Example configurations
+- ❌ No secrets or credentials
+- ❌ No personal data
+
+## Using Steering Docs
+
+Steering documents in `steering/` are automatically loaded by Kiro to provide context when working on the project. They help Kiro:
+- Understand the Frankenstein Lab architecture
+- Follow consistent coding patterns
+- Know available commands and APIs
+- Maintain the spooky theme aesthetic
+
+## Using Hooks
+
+Agent hooks in `hooks/` can be configured to:
+- Auto-run tests on file save
+- Validate code on commit
+- Update documentation automatically
+- Run custom workflows
+
+To create your own hooks:
+1. Open Command Palette (Ctrl+Shift+P)
+2. Search for "Open Kiro Hook UI"
+3. Configure your hook triggers and actions
+
+## Contributing
+
+When contributing to this project:
+1. Read `steering/frankenstein-lab.md` for project context
+2. Follow the architecture patterns described
+3. Maintain the Frankenstein theme (neon green/purple)
+4. Add new steering docs if adding major features
+
+## Learn More
+
+- Main Project: See `/README.md`
+- Quick Start: See `/QUICK-START.md`
+- Architecture: See `/ARCHITECTURE.md`
+- Commands: See `/COMMANDS.txt`
+
+---
+
+**This folder is part of the Frankenstein Web Lab project** ⚡🧪
